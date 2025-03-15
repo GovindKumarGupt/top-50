@@ -20,3 +20,5 @@ where o.seller_id is null
 order by seller_name
 
 -- no companies listed
+
+
